@@ -2,3 +2,7 @@ ml/
 venv/
 SBAnational.csv
 dataset_test.csv
+dataset_test1.csv
+dataset_test2.csv
+dataset_test3.csv
+*.csv
