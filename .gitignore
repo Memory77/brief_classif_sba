@@ -1,3 +1,4 @@
 ml/
 venv/
 SBAnational.csv
+*.csv
